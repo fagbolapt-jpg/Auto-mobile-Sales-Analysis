@@ -35,7 +35,7 @@ The business needed a clear, data-backed view of where its auto-mobile sales per
 
 ## Recommendations
 
-1. **Protect the USA market** while investigating why Ireland underperforms — pricing, marketing reach, or brand awareness are the likely culprits
+1. **Protect the USA market** while investigating why Ireland underperforms  pricing, marketing reach, or brand awareness are the likely culprits
 2. **Prioritize Classic and Vintage Cars** in inventory planning; evaluate whether the remaining 5 product lines justify continued stocking based on margin
 3. **Launch a retention program** targeting Champion and Loyal tier customers, with a tiered loyalty rewards system to move Occasional customers up
 4. **Build Q4 inventory ahead of October–November** and time marketing campaigns to the seasonal demand spike
